@@ -1,0 +1,8 @@
+.mobile-menu-button {
+    position: absolute;
+    margin-top: -40px;
+    right: 16px;
+    color: yellow;
+    z-index: 1300; /* Ensure it appears above other elements */
+  }
+  

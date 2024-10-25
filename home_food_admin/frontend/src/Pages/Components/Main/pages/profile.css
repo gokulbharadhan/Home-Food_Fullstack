@@ -1,0 +1,17 @@
+.Profile-data {
+    list-style-type: none; /* Removes default bullet points */
+    padding: 20px;
+    margin: 0;
+}
+
+.Profile-data li {
+    padding: 20px;
+    cursor: pointer;
+   font-size:18px;
+    border-bottom: 1px solid #ccc; /* Adds a line under each item */
+}
+
+.Profile-data li:hover {
+    background: linear-gradient(to right, #ff7e5f, #feb47b); /* Gradient background on hover */
+    color: white; /* Optional: change text color for better contrast */
+}
